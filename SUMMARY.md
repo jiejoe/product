@@ -13,6 +13,6 @@
 * [4.3 直采订单（正向）](gong-neng-xu-qiu/4.3-zhi-cai-ding-dan-zheng-xiang.md)
 * [4.4 佣金订单生成](gong-neng-xu-qiu/4.4-yong-jin-ding-dan-sheng-cheng.md)
 * [4.5 佣金通知](gong-neng-xu-qiu/untitled.md)
-* [4.6 直采维权订单创建（逆向）](gong-neng-xu-qiu/4.6-zhi-cai-wei-quan-ding-dan-chuang-jian-ni-xiang.md)
+* [4.6 直采维权订单（逆向）](gong-neng-xu-qiu/4.6-zhi-cai-wei-quan-ding-dan-chuang-jian-ni-xiang.md)
 * [4.7 佣金补扣](gong-neng-xu-qiu/untitled-1.md)
 
