@@ -41,7 +41,13 @@
 
 ## 3.5 流程图
 
-![](http://192.168.1.75/documents/%E5%BA%94%E7%94%A8Web/Sprint28/_book/assets/%E4%BA%A7%E5%93%81%E7%BB%93%E6%9E%842.png)
+
+
+![](.gitbook/assets/chan-pin-jie-gou-21.png)
 
 ## 3.6 产品结构图
+
+
+
+![](.gitbook/assets/mei-jian-zhi-cai.png)
 
