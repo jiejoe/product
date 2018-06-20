@@ -9,7 +9,7 @@
 ## 4. 功能需求
 
 * [4.1 后台配置佣金计划](gong-neng-xu-qiu/4.1-hou-tai-pei-zhi-yong-jin-ji-hua.md)
-* [4.2 单品详情加采购按钮](gong-neng-xu-qiu/4.2-dan-pin-xiang-qing-jia-cai-gou-an-niu.md)
+* [4.2 单品详情、列表加采购按钮](gong-neng-xu-qiu/4.2-dan-pin-xiang-qing-jia-cai-gou-an-niu.md)
 * [4.3 直采订单（正向）](gong-neng-xu-qiu/4.3-zhi-cai-ding-dan-zheng-xiang.md)
 * [4.4 佣金订单生成](gong-neng-xu-qiu/4.4-yong-jin-ding-dan-sheng-cheng.md)
 * [4.5 佣金通知](gong-neng-xu-qiu/untitled.md)
