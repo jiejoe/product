@@ -33,14 +33,7 @@
 
 **demo**：
 
-![](http://192.168.1.75/documents/%E5%BA%94%E7%94%A8Web/Sprint28/_book/assets/%E9%80%86%E5%90%911.png)
+![](../.gitbook/assets/ni-xiang-1.png)
 
-  
-
-
-![](http://192.168.1.75/documents/%E5%BA%94%E7%94%A8Web/Sprint28/_book/assets/%E9%80%86%E5%90%912.png)
-
-## 
-
-
+![](../.gitbook/assets/ni-xiang-2.png)
 
