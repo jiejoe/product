@@ -17,5 +17,4 @@
 * [4.7 佣金补扣](gong-neng-xu-qiu/untitled-1.md)
 * [4.8 美间直采抽佣比例](gong-neng-xu-qiu/4.8-mei-jian-zhi-cai-chou-yong-bi-li.md)
 * [4.9 关闭商家修改价格权限](gong-neng-xu-qiu/4.9-guan-bi-shang-jia-xiu-gai-jia-ge-quan-xian.md)
-* [4.10 订单状态变更方法附录](gong-neng-xu-qiu/4.10-ding-dan-zhuang-tai-bian-geng-fang-fa-fu-lu.md)
 
